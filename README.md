@@ -23,4 +23,5 @@ Visualization: Tableau
 :telephone_receiver: Connect with Me:
 
 :arrow_forward: [telegram](https://t.me/rixrozze)
+
 :email: [gmail](rixrozze@gmail.com)
