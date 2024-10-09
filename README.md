@@ -1,5 +1,5 @@
 Hello! :raised_hand: 
-I'm Кирилл Кротов aka RIXR0ZZE!
+I'm Kirill Krotov aka RIXR0ZZE!
 
 At university, I was interested in machine learning and data analysis classes. Then I decided it's time to hit the books.
 And now I can:
