@@ -24,4 +24,4 @@ Visualization: Tableau
 
 :arrow_forward: [telegram](https://t.me/rixrozze)
 
-:email: [gmail](rixrozze@gmail.com)
+:email: **email**: rixrozze@gmail.com
