@@ -1,16 +1,25 @@
-## Hi there 👋
+Hello! :raised_hand: 
+I'm Кирилл Кротов aka RIXR0ZZE!
 
-<!--
-**RIXR0ZZE/RIXR0ZZE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At university, I was interested in machine learning and data analysis classes. Then I decided it's time to hit the books.
+And now I can:
+- Querying data using SQL;
+- Data analysis using Python;
+- Developing dashboards on Tableau;
+- Data analysis and reporting using Google Sheets and Excel.
 
-Here are some ideas to get you started:
+:ledger: Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my portfolio, where I showcase my projects.
+
+:hammer: Tools:
+
+Language: SQL, Python
+
+Database: PostgreSQL
+
+Visualization: Tableau
+
+:telephone_receiver: Connect with Me:
+
+:airplane: [telegram](https://t.me/rixrozze)
