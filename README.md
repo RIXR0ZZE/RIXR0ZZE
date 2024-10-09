@@ -22,4 +22,5 @@ Visualization: Tableau
 
 :telephone_receiver: Connect with Me:
 
-:airplane: [telegram](https://t.me/rixrozze)
+:arrow_forward: [telegram](https://t.me/rixrozze)
+:email: [gmail](rixrozze@gmail.com)
