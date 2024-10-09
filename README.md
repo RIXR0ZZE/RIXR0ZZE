@@ -22,6 +22,6 @@ Visualization: Tableau
 
 :telephone_receiver: Connect with Me:
 
-:arrow_forward: [telegram](https://t.me/rixrozze)
+:arrow_backward: [telegram](https://t.me/rixrozze)
 
 :email: **email**: rixrozze@gmail.com
